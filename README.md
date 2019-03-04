@@ -1,3 +1,8 @@
-# My Awesome Book
+# 简介
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+谨以记录跟着《重写前端》专栏巩固知识点，以及每篇文章学习到的知识点与自己的理解。
+
+文章可能会比较口语化，轻拍。
+
+:）
+
