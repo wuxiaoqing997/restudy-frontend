@@ -17,12 +17,8 @@
 * [3 CSS](css.md)
     * [3.1 关于css的规则](css/aboutCss.md)
 * [4 浏览器](browser.md)
-    * [4.1 关于浏览器的工作-1](browser/aboutWork1.md)
-    * [4.2 关于浏览器的工作-2](browser/aboutWork2.md)
-    * [4.3 关于浏览器的工作-3](browser/aboutWork3.md)
-    * [4.4 关于浏览器的工作-4](browser/aboutWork4.md)
-    * [4.5 关于浏览器的工作-5](browser/aboutWork5.md)
-    * [4.6 关于head里的标签](browser/aboutHead.md)
+    * [4.1 关于浏览器的工作](browser/aboutWork.md)
+    * [4.2 关于head里的标签](browser/aboutHead.md)
 
 
     
