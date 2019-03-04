@@ -10,7 +10,7 @@
     * [2.2 应该是面向对象还是基于对象](js/standOrface.md)
     * [2.3 是否需要模拟类](js/doWeNeedClass.md)
     * [2.4 关于对象的分类](js/aboutClass.md)
-    * [2.5 promise与setTimeout](js/promiseAndsetTimeout)
+    * [2.5 promise与setTimeout](js/promiseAndsetTimeout.md)
     * [2.6 闭包与执行上下文](js/closeAnd.md)
     * [2.7 关于函数](js/aboutFunction.md)
     * [2.8 try与return，还有finally](js/tryAndReturn.md)
